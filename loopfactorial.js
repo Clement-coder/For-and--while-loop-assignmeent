@@ -1,7 +1,7 @@
 //. Calculating Factorial Using While Loop in JavaScript
 
 
-let num = 5;
+let num = 20;
 let factorial = 1;
 let i =  num;
 while (i > 0){
